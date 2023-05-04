@@ -9,7 +9,7 @@
 
 <channel>
 	<title>admin &#8211; Explorius</title>
-	<atom:link href="http://192.168.1.13/author/admin/feed/?simply_static_page=3545" rel="self" type="application/rss+xml" />
+	<atom:link href="http://192.168.1.13/author/admin/feed/?simply_static_page=4505" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Fri, 17 Apr 2020 14:40:51 +0000</lastBuildDate>
